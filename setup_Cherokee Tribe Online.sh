@@ -3,7 +3,7 @@
 # Параметры
 BUNDLE_ID="com.vhero.tronl"
 APPLE_ID="6746481294"
-REMOTE_URL="git@github.com:saurikCornel/cherokeee.git"
+REMOTE_URL="git@github.com:saurikCornel/cherokee2.git"
 PROJECT_NAME="Cherokee Tribe Online"
 SCHEME_NAME="project"
 
